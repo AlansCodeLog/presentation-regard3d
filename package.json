@@ -1,7 +1,7 @@
 {
   "name": "reveal.js",
   "scripts": {
-    "start": "grunt serve",
+    "start": "grunt serve"
   },
   "engines": {
     "node": ">=4.0.0"
@@ -22,5 +22,5 @@
     "grunt-zip": "~0.17.1",
     "mustache": "^2.3.0",
     "socket.io": "^1.7.3"
-  },
+  }
 }
